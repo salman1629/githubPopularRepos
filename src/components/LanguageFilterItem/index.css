@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.lang-item {
+  margin: 20px;
+}
+.fil-button {
+  background-color: transparent;
+  border: none;
+  padding: 5px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 16px;
+}
+.selected-button {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 10px;
+  background-color: transparent;
+  font-size: 16px;
+  padding: 5px;
+}

@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.logo-name-container {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+}
+.pic {
+  width: 60px;
+}
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #0284c710;
+  margin: 5px;
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+}
+
+.common-padding {
+  padding: 0px;
+  margin: 0px;
+  font-size: 12px;
+}
+
+.single-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
